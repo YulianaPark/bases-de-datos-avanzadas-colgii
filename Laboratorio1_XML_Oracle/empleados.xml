@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados version="1.0">
+  <empleado id="200">
+    <nombre>Jennifer</nombre>
+    <apellido>Whalen</apellido>
+    <departamento>Administration</departamento>
+    <correo>JWHALEN</correo>
+    <fechaContratacion>1987-09-17</fechaContratacion>
+  </empleado>
+</empleados>
